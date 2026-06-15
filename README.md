@@ -130,10 +130,10 @@ These actions would allow restaurants to significantly reduce their environmenta
 ## Tableau Dashboards
 
 ### Emissions by Food Item
-![Emissions by Food](dashboard_emissions_food.png)
+![Emissions by Food](DASHBOARDS/dashboard_emissions_food.png)
 
 ### Emissions by Food Category
-![Emissions by Category](dashboard_emissions_category.png)
+![Emissions by Category](DASHBOARDS/dashboard_emissions_category.png)
 
 ### Diet Comparison — Omnivore vs Vegetarian vs Vegan
 ![Diet Comparison](DASHBOARDS/dashboard_diet_comparison.png)
