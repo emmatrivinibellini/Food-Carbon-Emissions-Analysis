@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Restaurants are increasingly looking to reduce their environmental impact while meeting growing consumer demand for sustainable food options. To support menu planning decisions, I analyzed greenhouse gas emissions across 29 food products and 8 supply chain stages using Tableau.
+Restaurants are increasingly looking to reduce their environmental impact while meeting growing consumer demand for sustainable food options. To support menu planning decisions, I analyzed greenhouse gas emissions across 29 food products and 8 supply chain stages using **Tableau**.
 
 The objective was to identify which foods contribute most to carbon emissions and compare the environmental impact of omnivorous, vegetarian, and vegan diets. Through interactive dashboards and visual storytelling, the analysis highlights the foods and production stages responsible for the largest share of emissions and provides actionable insights for building lower-carbon menus.
 
